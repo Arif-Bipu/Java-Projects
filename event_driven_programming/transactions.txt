@@ -1,0 +1,6 @@
+200912201420, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0, 6.95, 09/12/20, 02:20:05 PM EDT
+200912201421, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0, 6.95, 09/12/20, 02:21:11 PM EDT
+200912201422, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0, 6.95, 09/12/20, 02:22:35 PM EDT
+200912201433, 14, "Stanley #2 Philips Screwdriver", 6.95, 1, 0, 6.95, 09/12/20, 02:33:55 PM EDT
+200912201443, 234887, "2021 CSX train calendar", 12.95, 1, 0, 12.95, 09/12/20, 02:43:28 PM EDT
+200912201443, 3451, "Oakley Jawbreaker sunglasses", 236.0, 1, 0, 236.00, 09/12/20, 02:43:28 PM EDT

@@ -1,0 +1,102 @@
+
+* * * SIMULATION BEGINS * * *
+
+Station 0: input connection is set to conveyer number 0.
+Station 0: output connection is set to conveyer number 0.
+Routing Station 0: Workload set. Station 0 has a total of 2 package groups to move.
+Station 1: input connection is set to conveyer number 0.
+Station 1: output connection is set to conveyer number 0.
+Routing Station 1: Workload set. Station 1 has a total of 3 package groups to move.
+Station 0: holds lock on input conveyer 0.
+Station 0: holds lock on output conveyer 2.
+Station 0: successfully moves pacakages into station on input conveyer0.
+Station 0: successfully moves packages out of station on output conveyer 2.
+Station 0: has 1 package groups left to move.
+Station 2: input connection is set to conveyer number 1.
+
+Station 2: output connection is set to conveyer number 1.
+Routing Station 2: Workload set. Station 2 has a total of 4 package groups to move.
+Station 0: unlocks input conveyer 0.
+Station 1: holds lock on input conveyer 0.
+Station 0: unlocks output conveyer 0.
+Station 1: holds lock on output conveyer 1.
+Station 1: successfully moves pacakages into station on input conveyer0.
+Station 1: successfully moves packages out of station on output conveyer 1.
+Station 1: has 2 package groups left to move.
+
+Station 1: unlocks input conveyer 0.
+Station 1: unlocks output conveyer 0.
+Station 2: holds lock on input conveyer 1.
+Station 2: holds lock on output conveyer 2.
+Station 2: successfully moves pacakages into station on input conveyer1.
+Station 2: successfully moves packages out of station on output conveyer 2.
+Station 2: has 3 package groups left to move.
+
+Station 2: unlocks input conveyer 1.
+Station 2: unlocks output conveyer 1.
+Station 1: holds lock on input conveyer 0.
+Station 2: holds lock on input conveyer 1.
+Station 1: unable to lock output conveyer - releasing lock on input conveyer 0.
+Station 2: holds lock on output conveyer 2.
+Station 0: holds lock on input conveyer 0.
+Station 0: unable to lock output conveyer - releasing lock on input conveyer 0.
+Station 2: successfully moves pacakages into station on input conveyer1.
+Station 2: successfully moves packages out of station on output conveyer 2.
+Station 2: has 2 package groups left to move.
+
+Station 2: unlocks input conveyer 1.
+Station 2: unlocks output conveyer 1.
+Station 2: holds lock on input conveyer 1.
+Station 2: holds lock on output conveyer 2.
+Station 2: successfully moves pacakages into station on input conveyer1.
+Station 2: successfully moves packages out of station on output conveyer 2.
+Station 2: has 1 package groups left to move.
+
+Station 2: unlocks input conveyer 1.
+Station 2: unlocks output conveyer 1.
+Station 2: holds lock on input conveyer 1.
+Station 2: holds lock on output conveyer 2.
+Station 2: successfully moves pacakages into station on input conveyer1.
+Station 2: successfully moves packages out of station on output conveyer 2.
+Station 2: has 0 package groups left to move.
+
+Station 2: unlocks input conveyer 1.
+Station 2: unlocks output conveyer 1.
+Station 1: holds lock on input conveyer 0.
+Station 1: holds lock on output conveyer 1.
+Station 1: successfully moves pacakages into station on input conveyer0.
+Station 1: successfully moves packages out of station on output conveyer 1.
+Station 1: has 1 package groups left to move.
+
+Station 1: unlocks input conveyer 0.
+Station 1: unlocks output conveyer 0.
+Station 0: holds lock on input conveyer 0.
+Station 0: holds lock on output conveyer 2.
+Station 0: successfully moves pacakages into station on input conveyer0.
+Station 0: successfully moves packages out of station on output conveyer 2.
+Station 0: has 0 package groups left to move.
+
+Station 0: unlocks input conveyer 0.
+Station 0: unlocks output conveyer 0.
+
+* * Station 2: Workload successfully completed. * *
+
+
+Station 1: holds lock on input conveyer 0.
+Station 1: holds lock on output conveyer 1.
+Station 1: successfully moves pacakages into station on input conveyer0.
+Station 1: successfully moves packages out of station on output conveyer 1.
+Station 1: has 0 package groups left to move.
+
+Station 1: unlocks input conveyer 0.
+Station 1: unlocks output conveyer 0.
+
+* * Station 0: Workload successfully completed. * *
+
+
+
+* * Station 1: Workload successfully completed. * *
+
+
+
+* * * * ALL WORKLOADS COMPLETE * * * SIMULATION ENDS * * * *
